@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FAPS.v3.0">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="FAPS.v3.0.jar">
+      <element id="module-output" name="FAPS.v2.0" />
+    </root>
+  </artifact>
+</component>
